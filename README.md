@@ -65,6 +65,14 @@ h1에서 h6으로 갈수록 글씨 크기 작아짐.
 ---
 1. 설치 : https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
 2. F1 or 'Ctrl + Shift + P' 선택 후 "markdown-pdf: Export (pdf)" 입력하면  작성중인 폴더 경로에 pdf 파일을 생성함
+3. 
+``` markdown-pdf: Export (settings.json)
+markdown-pdf: Export (pdf)
+markdown-pdf: Export (html)
+markdown-pdf: Export (png)
+markdown-pdf: Export (jpeg)
+markdown-pdf: Export (all: pdf, html, png, jpeg)
+```
 
 * 참고 및 출처: https://jungmonster.tistory.com/260 [JMob]
 
