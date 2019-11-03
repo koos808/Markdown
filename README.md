@@ -59,3 +59,18 @@ h1에서 h6으로 갈수록 글씨 크기 작아짐.
 3. Leave a comment 부분에 넣을 이미지(사진) 드래그앤 드랍
 4. 조금 기다리면 이미지가 깃헙 서버에 업로드가 완료됨. 완료되면 링크가 생성됨.
 5. 생성된 링크를 마크다운에 복붙하면 끝!
+
+
+7.vscode Markdown PDF : 마크다운으로 작성중인 파일을 PDF 파일로 출력
+---
+1. 설치 : https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
+2. F1 or 'Ctrl + Shift + P' 선택 후 "markdown-pdf: Export (pdf)" 입력하면  작성중인 폴더 경로에 pdf 파일을 생성함
+
+* 참고 및 출처: https://jungmonster.tistory.com/260 [JMob]
+
+
+8.vscode 단축키 all-in one
+---
+1. 설치 : https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+
+* 참고 및 출처: https://jungmonster.tistory.com/260 [JMob]
