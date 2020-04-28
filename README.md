@@ -60,6 +60,10 @@ h1에서 h6으로 갈수록 글씨 크기 작아짐.
 4. 조금 기다리면 이미지가 깃헙 서버에 업로드가 완료됨. 완료되면 링크가 생성됨.
 5. 생성된 링크를 마크다운에 복붙하면 끝!
 
+* 추가
+  * `![compare](./image/SPPNet_vs_R-CNN.png)`
+  * 주피터 노트북 :  `<img src = "images/overfitting.jpg">`
+  * 사이즈 조절할 때 : `<img src = "images/overfitting.jpg" style="width: 700px;"/>`
 
 7.vscode Markdown PDF : 마크다운으로 작성중인 파일을 PDF 파일로 출력
 ---
