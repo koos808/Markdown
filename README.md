@@ -34,6 +34,7 @@ h1에서 h6으로 갈수록 글씨 크기 작아짐.
 ~~~
 1. bold(굵게 쓰기) : 양쪽에 * or _ 2개 입력
 2. italic(기울기)  : 양쪽에 * or _ 1개 입력
+3. 밑줄 : <u> ---  </u>
 ~~~
 
 4.코드삽입
@@ -66,6 +67,8 @@ h1에서 h6으로 갈수록 글씨 크기 작아짐.
   * 사이즈 조절할 때 : `<img src = "images/overfitting.jpg" style="width: 700px;"/>`
   * 이미지 정렬 : `<img src = "images/broadcasting.jpg" align="left" style="width: 400px;"/>` <- 왼쪽 정렬
   * 공백(스페이스) 입력 : `&nbsp;`
+  * url, 홈페이지 하이퍼링크 연결 : ` [Keras-Initializers](https://keras.io/initializers/).`
+
 7.vscode Markdown PDF : 마크다운으로 작성중인 파일을 PDF 파일로 출력
 ---
 1. 설치 : https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
