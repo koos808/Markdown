@@ -64,7 +64,7 @@ h1에서 h6으로 갈수록 글씨 크기 작아짐.
   * `![compare](./image/SPPNet_vs_R-CNN.png)`
   * 주피터 노트북 :  `<img src = "images/overfitting.jpg">`
   * 사이즈 조절할 때 : `<img src = "images/overfitting.jpg" style="width: 700px;"/>`
-
+  * 이미지 정렬 : `<img src = "images/broadcasting.jpg" align="left" style="width: 400px;"/>` <- 왼쪽 정렬
 7.vscode Markdown PDF : 마크다운으로 작성중인 파일을 PDF 파일로 출력
 ---
 1. 설치 : https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
