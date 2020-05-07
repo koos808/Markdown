@@ -73,7 +73,8 @@ h1에서 h6으로 갈수록 글씨 크기 작아짐.
 ---
 1. 설치 : https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
 2. F1 or 'Ctrl + Shift + P' 선택 후 "markdown-pdf: Export (pdf)" 입력하면  작성중인 폴더 경로에 pdf 파일을 생성함
-3. 
+3. 에러 : tmp 파일만 생성되고 pdf로 출력이 안되는 경우가 있는데
+ -> 파일 - 기본 설정 - 설정(`ctrl+,`) - markdown pdf 검색 -  markdown-pdf.executablePath 값에 `C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe` 입력하면 잘 작동됨.
 ``` markdown-pdf: Export (settings.json)
 markdown-pdf: Export (pdf)
 markdown-pdf: Export (html)
