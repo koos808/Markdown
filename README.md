@@ -87,6 +87,12 @@ markdown-pdf: Export (all: pdf, html, png, jpeg)
 
 8.vscode 단축키 all-in one
 ---
-1. 설치 : https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+* 1. 설치 : https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+
+* 2. shortcut 단축키
+  * `Ctrl + B` : 굵게
+  * `Ctrl + I` : 기울기
+  * 등등
 
 * 참고 및 출처: https://jungmonster.tistory.com/260 [JMob]
+
