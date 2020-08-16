@@ -53,7 +53,7 @@ h1에서 h6으로 갈수록 글씨 크기 작아짐.
 <br /> 입력하면 한 줄 공백생김.
 ```
 
-6.Readme에 사진첨부하기
+6. Markdown에 사진첨부하기
 ---
 1. Github Repository에 들어가기
 2. Issues 들어간 후 New issue 클릭
