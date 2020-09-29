@@ -97,3 +97,6 @@ markdown-pdf: Export (all: pdf, html, png, jpeg)
 
 * 참고 및 출처: https://jungmonster.tistory.com/260 [JMob]
 
+
+* 9. 색상 넣기
+  * `<span style="color:yellow"> 내용 </span>`
